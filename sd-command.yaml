@@ -1,0 +1,9 @@
+namespace: screwdriver
+name: install-node
+version: '1.0'
+description: |
+  Setup up node.js
+maintainer: screwdriver-oss@verizonmedia.com
+format: binary
+binary:
+  file: ./run.sh
