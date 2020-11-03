@@ -1,5 +1,5 @@
 namespace: screwdriver
-name: install-node
+name: install-nodejs
 version: '1.0'
 description: |
   Setup up node.js
